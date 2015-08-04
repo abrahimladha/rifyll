@@ -1,11 +1,11 @@
 # Site settings
-title: Site Title
+title: Abrahim Ladha
 email: somename@somedomain.com
-description: "Site Description"
-logo_location: "http://placehold.it/100x100&text=LOGO"
-
-#baseurl: "" # the subpath of your site, e.g. /blog/
-#url: "" # the base hostname & protocol for your site
+description: "Welcome to my site"
+logo_location: "https://placehold.it/100x100&text=LOGO"
+destination: /var/www/html/abrahimladha
+baseurl: "/abrahimladha" # the subpath of your site, e.g. /blog/
+url: "https://vgd.me/abrahimladha" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
